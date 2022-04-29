@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Project/Minesweeper/app/src/main/res/layout/activity_game.xml" value="0.1766304347826087" />
         <entry key="..\:/Project/Minesweeper/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Project/Minesweeper/app/src/main/res/layout/difficulty_setting.xml" value="0.25" />
       </map>
     </option>
   </component>
