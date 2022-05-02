@@ -46,6 +46,13 @@ public class MainActivity extends AppCompatActivity {
         mGameStartButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                /*
+                난이도
+
+                초급 : 가로 9 세로 9 지뢰 10
+                중급 : 가로 16 세로 16 지뢰 40
+                고급 : 가로 30 세로 16 지뢰 99
+                 */
                 mDiffDialog = new Dialog(MainActivity.this);
                 mDiffDialog.requestWindowFeature(Window.FEATURE_NO_TITLE);
                 mDiffDialog.setContentView(R.layout.difficulty_setting);
